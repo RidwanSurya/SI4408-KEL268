@@ -1,1 +1,1 @@
-Pada halaman register ini diperuntukkan bagi pengguna yang belum memiliki akun. Sehingga pengguna dapat melakukan registrasi terlebih dahulu. Cara melakukan registrasi dengan mengisi nama lengkap, nomor telepon, email, serta password.
+Pada halaman register ini diperuntukkan bagi pengguna yang belum memiliki akun. Sehingga, pengguna dapat melakukan registrasi terlebih dahulu. Cara melakukan registrasi dengan mengisi nama lengkap, nomor telepon, email, serta password. 
